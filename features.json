@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "title": "Cartões de Visita",
+      "description": "Impressão de alta qualidade para seus cartões de visita profissionais.",
+      "image": "https://i.postimg.cc/3JF5HdQ1/cartao.jpg",
+      "icon": "bx:bxs-id-card",
+      "buttonLink": "https://wa.me/p/7970513363048064/558491899525"
+    },
+    {
+      "id": 2,
+      "title": "Cardápios",
+      "description": "Cardápio vários modelos e tamanhos. Materiais: PVC, plastificado, impresso...",
+      "image": "https://i.postimg.cc/Y9HzkqHN/cardapio.jpg",
+      "icon": "bx:bxs-flag-alt",
+      "buttonLink": "https://wa.me/p/27495335916779131/558491899525"
+    },
+    {
+      "id": 3,
+      "title": "Crachá e Cordões",
+      "description": "Personalize seu crachá com design exclusivo para sua empresa ou evento.",
+      "image": "https://i.postimg.cc/MT6fdcwL/cracha.jpg",
+      "icon": "bx:bxs-sticker",
+      "buttonLink": "https://wa.me/p/8810385715697247/558491899525"
+    },
+    {
+      "title": "Canecas Personalizadas",
+      "description": "Exclusivas para presentear ou promover sua marca. Disponíveis em porcelanas brancas ou coloridas.",
+      "image": "https://i.postimg.cc/6Qw8p78Q/caneca.jpg",
+      "icon": "bx:bxs-flag-alt",
+      "buttonLink": "https://wa.me/p/7954697354632434/558491899525",
+      "id": 4
+    },
+    {
+      "title": "Cases para Bebidas",
+      "description": "Cases personalizados para latinhas, lata slim e long neck, perfeitos para proteger e manter suas bebidas sempre à mão.",
+      "image": "https://i.postimg.cc/3JvNjjpR/case.jpg",
+      "icon": "bx:bxs-flag-alt",
+      "buttonLink": "https://wa.me/p/9037342912943484/558491899525",
+      "id": 5
+    },
+    {
+      "id": "1741321011350",
+      "title": "Animeeeee",
+      "description": "kkkkkkkkkkkkkkkkkk",
+      "buttonText": "Saiba mais",
+      "buttonLink": "https://wa.me/p/7970513363048064/558491899525 ",
+      "icon": "bx:bxs-star",
+      "image": "https://cdn.ome.lt/Y4J2Ie-qBnZHvgZ2pvRuXmZsIf8=/480x360/smart/extras/conteudos/clair-obscur-expedition-33.jpg"
+    },
+    {
+      "id": "1741321336985",
+      "title": "Ainda estou aqui e lá também",
+      "description": "eu também",
+      "buttonText": "Saiba mais",
+      "buttonLink": "eu também",
+      "icon": "bx:bxs-star",
+      "image": "https://cdn.ome.lt/inGcyGZk-tC2d5NXE6tF3xQ3evc=/480x360/smart/extras/conteudos/Ainda-estou-aqui-onde-assistir_v6X4ld1.png"
+    },
+    {
+      "id": "1",
+      "title": "Cartões de Visita",
+      "description": "Impressão de alta qualidade para seus cartões de visita profissionais.",
+      "buttonText": "Saiba mais",
+      "buttonLink": "Impressão de alta qualidade para seus cartões de visita profissionais.",
+      "icon": "bx:bxs-star",
+      "image": "http://localhost:4322/features/business-cards.jpg"
+    }
+  ]
+}

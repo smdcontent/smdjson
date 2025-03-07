@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Cartão de Visita",
+      "description": "Impressão de alta qualidade em papel couchê",
+      "image": "/products/business-card.jpg",
+      "price": "R$ 50,00",
+      "category": "Impressos",
+      "featured": true,
+      "buttonText": "Solicitar Orçamento",
+      "buttonLink": "https://wa.me/5511999999999",
+      "icon": "bx:bxs-id-card"
+    },
+    {
+      "id": 2,
+      "title": "Banner",
+      "description": "Banner em lona com acabamento",
+      "image": "/products/banner.jpg",
+      "price": "R$ 120,00",
+      "category": "Impressos",
+      "featured": true,
+      "buttonText": "Solicitar Orçamento",
+      "buttonLink": "https://wa.me/5511999999999",
+      "icon": "bx:bxs-flag-alt"
+    },
+    {
+      "id": 3,
+      "title": "Identidade Visual",
+      "description": "Design profissional para sua marca",
+      "image": "/products/branding.jpg",
+      "price": "Sob consulta",
+      "category": "Design",
+      "featured": true,
+      "buttonText": "Solicitar Orçamento",
+      "buttonLink": "https://wa.me/5511999999999",
+      "icon": "bx:bxs-palette"
+    }
+  ]
+}
