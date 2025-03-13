@@ -1,35 +1,11 @@
 [
   {
-    "id": "1",
-    "title": "Sua Mídia Digital",
-    "description": "Cartões de visita profissionais com designs modernos",
-    "image": "https://i.postimg.cc/nhFgSmPD/smd-logo.png",
-    "link": "/products/business-cards"
-  },
-  {
-    "id": "2",
-    "title": "Adesivos Personalizados",
-    "description": "Adesivos Personalizados",
-    "image": "https://i.postimg.cc/CLGXh7qt/smd-logo4.png",
-    "link": "/products/stickers",
-    "updatedAt": "2025-03-13T03:59:01.637Z"
-  },
-  {
-    "id": "56553cb2-e083-48e6-8652-663307431db3",
+    "id": "bca590b9-5ea6-4b39-abef-3cd9da58741c",
     "title": "Sua Mídia Digital",
     "description": "Sua Mídia Digital",
     "image": "https://i.postimg.cc/nhFgSmPD/smd-logo.png",
-    "link": "https://google.com",
-    "createdAt": "2025-03-13T06:19:11.995Z",
-    "updatedAt": "2025-03-13T06:19:11.995Z"
-  },
-  {
-    "id": "bb609c84-3525-494e-99c7-fe10595ed7e1",
-    "title": "Sua Mídia Digital",
-    "description": "Sua Mídia Digital",
-    "image": "https://i.postimg.cc/3JF5HdQ1/cartao.jpg",
-    "link": "https://google.com",
-    "createdAt": "2025-03-13T07:12:14.842Z",
-    "updatedAt": "2025-03-13T07:12:14.842Z"
+    "link": "https://t.me/Twapple",
+    "createdAt": "2025-03-13T07:39:01.301Z",
+    "updatedAt": "2025-03-13T07:39:01.301Z"
   }
 ]
