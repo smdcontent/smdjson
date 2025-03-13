@@ -20,5 +20,14 @@
     "description": "Desenvolvimento completo de identidade visual",
     "image": "https://i.postimg.cc/nhFgSmPD/smd-logo.png",
     "link": "/products/branding"
+  },
+  {
+    "id": "8fa4d3f5-b23c-4d9c-ab58-14d8ba0623a5",
+    "title": "SMD",
+    "description": "SMD",
+    "image": "https://i.postimg.cc/G381Cvzw/smd-logo3.png",
+    "link": "https://google.com",
+    "createdAt": "2025-03-13T04:06:07.367Z",
+    "updatedAt": "2025-03-13T04:06:07.367Z"
   }
 ]
