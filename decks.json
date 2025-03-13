@@ -1,16 +1,23 @@
 [
   {
-    "id": "slide1",
-    "title": "Primeiro Deck",
-    "imageUrl": "https://i.postimg.cc/nhFgSmPD/smd-logo.png",
-    "link": "/decks/primeiro-deck",
-    "order": 1
+    "id": "1",
+    "title": "Cartões de Visita",
+    "description": "Cartões de visita profissionais com designs modernos",
+    "image": "https://i.postimg.cc/nhFgSmPD/smd-logo.png",
+    "link": "/products/business-cards"
   },
   {
-    "id": "slide2",
-    "title": "Segundo Deck",
-    "imageUrl": "https://i.postimg.cc/nhFgSmPD/smd-logo.png",
-    "link": "/decks/segundo-deck",
-    "order": 2
+    "id": "2",
+    "title": "Adesivos Personalizados",
+    "description": "Adesivos de alta qualidade para sua marca",
+    "image": "https://i.postimg.cc/nhFgSmPD/smd-logo.png",
+    "link": "/products/stickers"
+  },
+  {
+    "id": "3",
+    "title": "Identidade Visual",
+    "description": "Desenvolvimento completo de identidade visual",
+    "image": "/https://i.postimg.cc/nhFgSmPD/smd-logo.png",
+    "link": "/products/branding"
   }
 ]
