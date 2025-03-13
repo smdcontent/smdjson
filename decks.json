@@ -1,0 +1,16 @@
+[
+  {
+    "id": "slide1",
+    "title": "Primeiro Deck",
+    "imageUrl": "https://i.postimg.cc/nhFgSmPD/smd-logo.png",
+    "link": "/decks/primeiro-deck",
+    "order": 1
+  },
+  {
+    "id": "slide2",
+    "title": "Segundo Deck",
+    "imageUrl": "https://i.postimg.cc/nhFgSmPD/smd-logo.png",
+    "link": "/decks/segundo-deck",
+    "order": 2
+  }
+]
