@@ -28,5 +28,15 @@
     "link": "https://google.com",
     "createdAt": "2025-03-13T22:54:53.342Z",
     "updatedAt": "2025-03-13T23:27:36.644Z"
+  },
+  {
+    "id": "4",
+    "title": "MX Mechanical Mini",
+    "tag": "Em estoque"
+    "description": "Teclado de desempenho iluminado minimalista",
+    "image": "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-mechanical/gallery/mx-mechanical-mini/mx-mechanical-mini-mini-keyboard-top-view-graphite-us.png?",
+    "link": "https://google.com",
+    "createdAt": "2025-03-13T22:54:53.342Z",
+    "updatedAt": "2025-03-13T23:27:36.644Z"
   }
 ]
