@@ -1,42 +1,34 @@
-[
-  {
-    "id": "1",
-    "title": "Pebble Mouse 2 M350s",
-    "description": "Sua Mídia Digital",
-    "tag": "Em estoque"
-    "image": "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/pebble-mouse-2-m350s/gallery/pebble-mouse-2-m350s-top-tonal-white-gallery.png",
-    "link": "https://t.me/",
-    "createdAt": "2025-03-13T07:39:01.301Z",
-    "updatedAt": "2025-03-14T02:42:23.657Z"
-  },
-  {
-    "id": "2",
-    "title": "Logitech DESK MAT - Studio Series",
-    "description": "Sua Mídia Digital",
-    "tag": "Em estoque"
-    "image": "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/desk-mat-studio-series/gallery/logitech-desk-mat-studio-series-corner-view-dark-rose.png",
-    "link": "https://google.com",
-    "createdAt": "2025-03-13T22:44:13.342Z",
-    "updatedAt": "2025-03-13T22:44:13.343Z"
-  },
-  {
-    "id": "3",
-    "title": "MX Mechanical Mini",
-    "tag": "Em estoque"
-    "description": "Teclado de desempenho iluminado minimalista",
-    "image": "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-mechanical/gallery/mx-mechanical-mini/mx-mechanical-mini-mini-keyboard-top-view-graphite-us.png?",
-    "link": "https://google.com",
-    "createdAt": "2025-03-13T22:54:53.342Z",
-    "updatedAt": "2025-03-13T23:27:36.644Z"
-  },
-  {
-    "id": "4",
-    "title": "MX Mechanical Mini",
-    "tag": "Em estoque"
-    "description": "Teclado de desempenho iluminado minimalista",
-    "image": "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-mechanical/gallery/mx-mechanical-mini/mx-mechanical-mini-mini-keyboard-top-view-graphite-us.png?",
-    "link": "https://google.com",
-    "createdAt": "2025-03-13T22:54:53.342Z",
-    "updatedAt": "2025-03-13T23:27:36.644Z"
-  }
-]
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Identidade Visual",
+      "description": "Desenvolvimento de logotipos, paleta de cores e elementos visuais que representam sua marca.",
+      "image": "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-mechanical/gallery/mx-mechanical-mini/mx-mechanical-mini-mini-keyboard-top-view-graphite-us.png",
+      "link": "/services/branding",
+      "tag": "Branding",
+      "createdAt": "2024-03-15T00:00:00Z",
+      "updatedAt": "2024-03-15T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Marketing Digital",
+      "description": "Estratégias personalizadas para aumentar sua presença online e engajamento nas redes sociais.",
+      "image": "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-mechanical/gallery/mx-mechanical-mini/mx-mechanical-mini-mini-keyboard-top-view-graphite-us.png",
+      "link": "/services/marketing",
+      "tag": "Marketing",
+      "createdAt": "2024-03-15T00:00:00Z",
+      "updatedAt": "2024-03-15T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Design Gráfico",
+      "description": "Criação de materiais visuais impressos e digitais para sua marca.",
+      "image": "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-mechanical/gallery/mx-mechanical-mini/mx-mechanical-mini-mini-keyboard-top-view-graphite-us.png",
+      "link": "/services/design",
+      "tag": "Design",
+      "createdAt": "2024-03-15T00:00:00Z",
+      "updatedAt": "2024-03-15T00:00:00Z"
+    }
+  ]
+}
