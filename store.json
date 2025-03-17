@@ -3,7 +3,7 @@
     "id": "bca590b9-5ea6-4b39-abef-3cd9da58741c",
     "title": "Cartão de Visita Digital",
     "description": "Cartão de visita digital interativo com seus dados de contato e redes sociais",
-    "image": "/products/business-cards.jpg",
+    "image": "https://niotech-react.vercel.app/assets/images/intro/introThumb1_1.png",
     "link": "https://wa.me/5511999999999",
     "createdAt": "2024-03-14T00:00:00Z",
     "updatedAt": "2024-03-14T00:00:00Z"
