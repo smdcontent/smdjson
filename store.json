@@ -21,7 +21,7 @@
     "id": "cfa8f715-4117-4f4c-bbe1-ce727191d472",
     "title": "Adesivos Personalizados",
     "description": "Adesivos personalizados para sua marca ou evento",
-    "image": "/products/stickers.jpg",
+    "image": "https://niotech-react.vercel.app/assets/images/intro/introThumb1_1.png",
     "link": "https://wa.me/5511999999999",
     "createdAt": "2024-03-14T00:00:00Z",
     "updatedAt": "2024-03-14T00:00:00Z"
