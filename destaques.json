@@ -22,5 +22,13 @@
     "image": "https://i.postimg.cc/LX80NFQF/smd-logo2.png",
     "buttonLink": "https://wa.me/5511999999999",
     "icon": "ri-star-line"
+  },
+  {
+    "id": 4,
+    "title": "Sua Mídia Digital",
+    "description": "Em breve, todos os nosso catálogo.",
+    "image": "https://i.postimg.cc/CLGXh7qt/smd-logo4.png",
+    "buttonLink": "https://wa.me/5511999999999",
+    "icon": "ri-star-line"
   }
 ]
