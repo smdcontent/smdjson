@@ -10,16 +10,8 @@
   {
     "id": 2,
     "title": "Sua Mídia Digital",
-    "description": "Ok",
+    "description": "Em breve, nossos principais produtos!\n\n",
     "image": "https://i.postimg.cc/nhFgSmPD/smd-logo.png",
-    "buttonLink": "https://wa.me/5511999999999",
-    "icon": "ri-star-line"
-  },
-  {
-    "id": 3,
-    "title": "Sua Mídia Digital",
-    "description": "Em breve",
-    "image": "https://i.postimg.cc/LX80NFQF/smd-logo2.png",
     "buttonLink": "https://wa.me/5511999999999",
     "icon": "ri-star-line"
   }
