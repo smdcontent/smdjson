@@ -6,5 +6,45 @@
     "text": "O trabalho foi incrível! A equipe entendeu perfeitamente nossa necessidade e entregou além das expectativas. Recomendo fortemente para qualquer projeto gráfico.",
     "image": "img.png",
     "company": "Studio Design Co."
+  },
+  {
+    "id": "2",
+    "name": "Carlos Ferreira",
+    "title": "Desenvolvedor",
+    "text": "Profissionais altamente capacitados e comprometidos com a qualidade. Fiquei impressionado com a agilidade e atenção aos detalhes.",
+    "image": "img2.png",
+    "company": "Tech Solutions"
+  },
+  {
+    "id": "3",
+    "name": "Mariana Costa",
+    "title": "Gerente de Projetos",
+    "text": "Comunicação excelente e entrega dentro do prazo. Foi um prazer trabalhar com essa equipe tão talentosa!",
+    "image": "img3.png",
+    "company": "InovaTech"
+  },
+  {
+    "id": "4",
+    "name": "Roberto Lima",
+    "title": "Empreendedor",
+    "text": "Minha experiência foi incrível! Conseguiram transformar minha ideia em algo visualmente impressionante.",
+    "image": "img4.png",
+    "company": "StartUp Vision"
+  },
+  {
+    "id": "5",
+    "name": "Ana Paula Martins",
+    "title": "Marketeira",
+    "text": "Criatividade e profissionalismo definem essa equipe. Sem dúvidas, voltarei a trabalhar com eles no futuro.",
+    "image": "img5.png",
+    "company": "Marketing Pro"
+  },
+  {
+    "id": "6",
+    "name": "Fernando Oliveira",
+    "title": "Fotógrafo",
+    "text": "Superaram minhas expectativas! O design ficou incrível e exatamente do jeito que eu imaginava.",
+    "image": "img6.png",
+    "company": "FotoArte Studio"
   }
 ]
