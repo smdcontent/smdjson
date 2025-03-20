@@ -1,16 +1,16 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Cisco",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg"
   },
   {
-    "id": 2,    
+    "id": "2",    
     "name": "Oracle",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Gugle",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
   }
