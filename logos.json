@@ -18,5 +18,10 @@
     "id": "4",
     "name": "Samsung",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg"
+  },
+  {
+    "id": "5",
+    "name": "Meta",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg"
   }
 ]
