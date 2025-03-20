@@ -1,12 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Gugle",
+    "name": "Oracle",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"
-  },
-  {
-    "id": 2,
-    "name": "Apple 2",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
   }
 ]
