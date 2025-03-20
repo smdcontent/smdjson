@@ -54,5 +54,11 @@
     "name": "Gugu ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
     "height": "h-7"
+  },
+  {
+    "id": 2,
+    "name": "IBM",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg",
+    "height": "h-8"
   }
 ]
