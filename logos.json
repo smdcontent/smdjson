@@ -10,8 +10,13 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"
   },
   {
-    "id": 3,
-    "name": "Apple ",
+    "id": "3",
+    "name": "Gugle",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+  },
+  {
+    "id": "4",
+    "name": "Samsung",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg"
   }
 ]
