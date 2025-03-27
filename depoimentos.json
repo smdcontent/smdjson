@@ -5,46 +5,42 @@
     "title": "Mackson Contabilidade",
     "text": "Ótimo atendimento e excelentes profissionais, com certeza voltarei mais vezes.",
     "image": "https://i.postimg.cc/vBTnZGZB/Captura-de-tela-2025-03-06-235235.png",
-    "company": "Studio Design Co."
   },
   {
     "id": "2",
-    "name": "Carlos Ferreira",
+    "name": "Gyldson Medeiros",
     "title": "Desenvolvedor",
-    "text": "Profissionais altamente capacitados e comprometidos com a qualidade. Fiquei impressionado com a agilidade e atenção aos detalhes.",
+    "text": "Experiência ótima, atendimento perfeito e agilidade.",
     "image": "https://i.postimg.cc/vBTnZGZB/Captura-de-tela-2025-03-06-235235.png",
-    "company": "Tech Solutions"
   },
   {
     "id": "3",
-    "name": "Mariana Costa",
+    "name": "Ludimilla Yara",
     "title": "Gerente de Projetos",
-    "text": "Comunicação excelente e entrega dentro do prazo. Foi um prazer trabalhar com essa equipe tão talentosa!",
+    "text": "Ótimo atendimento, prazo excelente e bom preço.
+",
     "image": "https://i.postimg.cc/vBTnZGZB/Captura-de-tela-2025-03-06-235235.png",
-    "company": "InovaTech"
   },
   {
     "id": "4",
-    "name": "Roberto Lima",
+    "name": "Jose Henrique",
     "title": "Empreendedor",
-    "text": "Minha experiência foi incrível! Conseguiram transformar minha ideia em algo visualmente impressionante.",
+    "text": "Serviço muito bom! Qualidade indiscutível!",
     "image": "https://i.postimg.cc/vBTnZGZB/Captura-de-tela-2025-03-06-235235.png",
-    "company": "StartUp Vision"
   },
   {
     "id": "5",
-    "name": "Ana Paula Martins",
+    "name": "Jorge Soares",
     "title": "Marketeira",
-    "text": "Criatividade e profissionalismo definem essa equipe. Sem dúvidas, voltarei a trabalhar com eles no futuro.",
+    "text": "Atendimento e qualidade!!
+",
     "image": "https://i.postimg.cc/vBTnZGZB/Captura-de-tela-2025-03-06-235235.png",
-    "company": "Marketing Pro"
   },
   {
     "id": "6",
-    "name": "Fernando Oliveira",
+    "name": "Joao Ivo",
     "title": "Fotógrafo",
     "text": "Superaram minhas expectativas! O design ficou incrível e exatamente do jeito que eu imaginava.",
     "image": "https://i.postimg.cc/vBTnZGZB/Captura-de-tela-2025-03-06-235235.png",
-    "company": "FotoArte Studio"
   }
 ]
